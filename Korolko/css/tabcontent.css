@@ -1,0 +1,119 @@
+#templatemo_menu {
+	clear: both;
+	width: 958px;
+	height: 250px;
+	padding: 0 1px;
+	background: url(../images/templatemo_top_panel_bg.png) no-repeat;
+}
+
+#templatemo_menu p{
+	text-align: center;
+	margin-left: 10%;
+	margin-top: 22px;
+	vertical-align: center;
+	padding: 0px;
+	font-size: 36px;
+	font-weight: bold;
+	color: #fff;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#templatemo_menu p1{
+	text-align: center;
+	margin-left: 25%;
+	margin-top: 35px;
+	padding: 0px;
+	font-size: 26px;
+	font-weight: bold;
+	color: #fff;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#templatemo_menu img{
+	width: 180px;
+	margin-top: 0.7%;
+	margin-left: 2%;
+	position: absolute;
+}
+
+.indentmenu{
+	font: bold 14px Arial;
+	height: 58px;
+	width: 958px; 
+}
+
+.indentmenu ul{
+	margin: 0;
+	padding: 0;
+	height: 58px;
+	background: black url(indentbg.gif) center center repeat-x;
+}
+
+.indentmenu ul li{
+	display: inline;
+}
+
+.indentmenu ul li a{
+	float: left;
+	color: white; 
+	width: 158px;
+	text-align: center;
+	height: 40px;
+	padding-top: 18px;
+	text-decoration: none;
+	border-right: 2px solid #000; 
+	background: url(../images/templatemo_menu_bg.jpg) repeat-x;
+	outline: none;
+}
+
+.indentmenu ul li a:visited{
+	color: white;
+}
+
+.indentmenu ul li a.selected, .indentmenu ul li a:hover{
+	color: white !important;
+	background: black url(../images/templatemo_menu_hover_bg.jpg) center center;
+}
+
+.indentmenu li .last{
+	border-right: none;
+}
+
+.tabcontentstyle{ 
+	clear: both;
+	width:900px; 
+	height: 35px; 
+	padding: 23px 30px 0 30px;
+	color: #fff;
+	font-size: 14px;
+}
+
+
+.tabcontentstyle ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+.tabcontentstyle li{
+	margin: 0px;
+	padding: 0px;
+	display: inline;
+}
+
+.tabcontentstyle li a {
+	font-weight: normal;
+	color: #FFF;
+	margin: 0px;
+	padding: 0 10px 0 5px;
+}
+
+.tabcontent{
+	display:none;
+}
+
+@media print {
+	.tabcontent {
+		display:block !important;
+	}
+}

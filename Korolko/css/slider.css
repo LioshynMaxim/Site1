@@ -1,0 +1,160 @@
+/* Common slider */
+
+.content h1 {
+	font-size:48px;
+	color:#000;
+	text-shadow:0px 1px 1px #f4f4f4;
+	text-align:center;
+	padding:10px 0 30px;	
+}
+
+/* LAYOUT */
+.container {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 960px;
+}
+
+/* CONTENT SLIDER */
+#content-slider {
+	width: 680px;
+	height: 360px;
+	margin: 0px 0px -25px 0px;
+	float: right;
+	text-align: center;
+}
+/*none*/
+#content-slider-left {
+	width: 280px;
+	height: 360px;
+	margin: 0px 0px -25px 0px;
+	float: left;
+}
+
+#content-slider-left img{
+	width: 90%;
+	align-items: center;
+	margin: 40px 0px -25px 0px;
+	float: left;
+}
+
+#content-slider img{
+	width: 680px;
+	height: 320px;
+	text-align: center;
+	align-items: center;
+}
+
+/* SLIDER */
+#slider {
+	background: #000;
+	border: 5px solid #eaeaea;
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.7);
+	height: 320px;
+	width: 680px;
+	margin: 0px 0 0px; 
+	overflow: visible;
+	position: relative;
+	float: right;
+}
+#mask {
+	overflow: hidden;
+	height: 320px;
+}
+
+
+#slider ul {
+	margin:0;
+	padding:0;
+	position:relative;
+}
+#slider li {
+	width: 680px;
+	height: 320px;
+	position: absolute;
+	top: -325px;
+	list-style: none;
+}
+
+#slider li.firstanimation {
+	-moz-animation:cycle 35s linear infinite;	
+	-webkit-animation:cycle 35s linear infinite;		
+}
+#slider li.secondanimation {
+	-moz-animation:cycletwo 35s linear infinite;
+	-webkit-animation:cycletwo 35s linear infinite;		
+}
+#slider li.thirdanimation {
+	-moz-animation:cyclethree 35s linear infinite;
+	-webkit-animation:cyclethree 35s linear infinite;		
+}
+#slider li.fourthanimation {
+	-moz-animation:cyclefour 35s linear infinite;
+	-webkit-animation:cyclefour 35s linear infinite;		
+}
+#slider li.fifthanimation {
+	-moz-animation:cyclefive 35s linear infinite;
+	-webkit-animation:cyclefive 35s linear infinite;		
+}
+
+#slider li.sixthanimation {
+	-moz-animation:cyclesix 35s linear infinite;
+	-webkit-animation:cyclesix 35s linear infinite;		
+}
+
+#slider li.seventhanimation {
+	-moz-animation:cycleseven 35s linear infinite;
+	-webkit-animation:cycleseven 35s linear infinite;		
+}
+
+#slider li.eighthanimation {
+	-moz-animation:cycleeight 35s linear infinite;
+	-webkit-animation:cycleeight 35s linear infinite;		
+}
+
+#slider .tooltip {
+	background:rgba(0,0,0,0.7);
+	width:370px;
+	height:60px;
+	position:relative;
+	bottom:75px;
+	left:-370px;
+	-moz-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;  
+}
+#slider .tooltip h1 {
+	text-align: center;
+	color:#fff;
+	font-size:22px;
+	font-weight:370;
+	line-height:60px;
+	padding:0 0 0 10px;
+}
+
+#slider li#first:hover .tooltip, 
+#slider li#second:hover .tooltip, 
+#slider li#third:hover .tooltip, 
+#slider li#fourth:hover .tooltip, 
+#slider li#fifth:hover .tooltip,
+#slider li#six:hover .tooltip,
+#slider li#seven:hover .tooltip,
+#slider li#eight:hover .tooltip {
+	left:0px;
+}
+
+#slider:hover li, 
+#slider:hover .progress-bar {
+	-moz-animation-play-state:paused;
+	-webkit-animation-play-state:paused;
+}
+
+/* PROGRESS BAR */
+.progress-bar { 
+	position:relative;
+	top: -5px;
+	width: 680px; 
+	height: 5px;
+	background: #000;
+	-moz-animation:fullexpand 35s ease-out infinite;
+	-webkit-animation:fullexpand 35s ease-out infinite;
+}
