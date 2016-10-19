@@ -67,52 +67,52 @@
 
 				<div class="autoplay slider">
 					<div>
-						<a href="article.php?page=price&namesubject=apple&typedevice=phone"><img src="images/logoPhone/apple.png" alt="apple" /></a>
+						<a href="article.php?page=price&namesubject=apple&typedevice=phone" target="_blank"><img src="images/logoPhone/apple.png" alt="apple" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=samsung&typedevice=phone"><img src="images/logoPhone/samsung.png" alt="samsung" /></a>
+						<a href="article.php?page=price&namesubject=samsung&typedevice=phone" target="_blank"><img src="images/logoPhone/samsung.png" alt="samsung" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=sony&typedevice=phone" ><img src="images/logoPhone/sony.png" alt="sony" /></a>
+						<a href="article.php?page=price&namesubject=sony&typedevice=phone" target="_blank"><img src="images/logoPhone/sony.png" alt="sony" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=htc&typedevice=phone"><img src="images/logoPhone/htc.png" alt="htc" /></a>
+						<a href="article.php?page=price&namesubject=htc&typedevice=phone" target="_blank"><img src="images/logoPhone/htc.png" alt="htc" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=nokia&typedevice=phone"><img src="images/logoPhone/nokia.png" alt="nokia" /></a>
+						<a href="article.php?page=price&namesubject=nokia&typedevice=phone" target="_blank"><img src="images/logoPhone/nokia.png" alt="nokia" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=huawei&typedevice=phone"><img src="images/logoPhone/huawei.png" alt="huawei" /></a>
+						<a href="article.php?page=price&namesubject=huawei&typedevice=phone" target="_blank"><img src="images/logoPhone/huawei.png" alt="huawei" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=lg&typedevice=phone"><img src="images/logoPhone/lg.png" alt="lg" /></a>
+						<a href="article.php?page=price&namesubject=lg&typedevice=phone" target="_blank"><img src="images/logoPhone/lg.png" alt="lg" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=asus&typedevice=phone"><img src="images/logoPhone/asus.png" alt="asus" /></a>
+						<a href="article.php?page=price&namesubject=asus&typedevice=phone" target="_blank"><img src="images/logoPhone/asus.png" alt="asus" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=prestigio&typedevice=phone"><img src="images/logoPhone/prestigio.png" alt="prestigio" /></a>
+						<a href="article.php?page=price&namesubject=prestigio&typedevice=phone" target="_blank"><img src="images/logoPhone/prestigio.png" alt="prestigio" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=meizu&typedevice=phone"><img src="images/logoPhone/meizu.png" alt="meizu" /></a>
+						<a href="article.php?page=price&namesubject=meizu&typedevice=phone" target="_blank"><img src="images/logoPhone/meizu.png" alt="meizu" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=xiaomi&typedevice=phone"><img src="images/logoPhone/xiaomi.png" alt="xiaomi" /></a>
+						<a href="article.php?page=price&namesubject=xiaomi&typedevice=phone" target="_blank"><img src="images/logoPhone/xiaomi.png" alt="xiaomi" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=fly&typedevice=phone"><img src="images/logoPhone/fly.png" alt="fly" /></a>
+						<a href="article.php?page=price&namesubject=fly&typedevice=phone" target="_blank"><img src="images/logoPhone/fly.png" alt="fly" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=alcatel&typedevice=phone"><img src="images/logoPhone/alcatel.png" alt="alcatel" /></a>
+						<a href="article.php?page=price&namesubject=alcatel&typedevice=phone" target="_blank"><img src="images/logoPhone/alcatel.png" alt="alcatel" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=zte&typedevice=phone"><img src="images/logoPhone/zte.png" alt="zte" /></a>
+						<a href="article.php?page=price&namesubject=zte&typedevice=phone" target="_blank"><img src="images/logoPhone/zte.png" alt="zte" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=lenovo&typedevice=phone"><img src="images/logoPhone/lenovo.png" alt="lenovo" /></a>
+						<a href="article.php?page=price&namesubject=lenovo&typedevice=phone" target="_blank"><img src="images/logoPhone/lenovo.png" alt="lenovo" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=explay&typedevice=phone"><img src="images/logoPhone/explay.png" alt="explay" /></a>
+						<a href="article.php?page=price&namesubject=explay&typedevice=phone" target="_blank"><img src="images/logoPhone/explay.png" alt="explay" /></a>
 					</div>
 				</div>
 				<? 
@@ -125,30 +125,30 @@
 
 				<div class="autoplay slider">
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/logoPhone/apple.png" alt="apple" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/logoPhone/apple.png" alt="apple" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/logoPhone/samsung.png" alt="samsung" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/logoPhone/samsung.png" alt="samsung" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/logoPhone/sony.png" alt="sony" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/logoPhone/sony.png" alt="sony" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/logoPhone/huawei.png" alt="huawei" /></a>
-					</div>
-
-					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/logoPhone/prestigio.png" alt="prestigio" /></a>
-					</div>
-					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/logoPhone/lenovo.png" alt="lenovo" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/logoPhone/huawei.png" alt="huawei" /></a>
 					</div>
 
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/logoPhone/asus.png" alt="asus" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/logoPhone/prestigio.png" alt="prestigio" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/logoPhone/explay.png" alt="explay" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/logoPhone/lenovo.png" alt="lenovo" /></a>
+					</div>
+
+					<div>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/logoPhone/asus.png" alt="asus" /></a>
+					</div>
+					<div>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/logoPhone/explay.png" alt="explay" /></a>
 					</div>
 
 				</div>
@@ -163,60 +163,60 @@
 
 				<div class="autoplay slider">
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook"><img src="images/logoPhone/apple.png" alt="apple" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/apple.png" alt="apple" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=hp&typedevice=notebook"><img src="images/logoPhone/hp.png" alt="hp" /></a>
+						<a href="article.php?page=price&namesubject=hp&typedevice=notebook" target="_blank"><img src="images/logoPhone/hp.png" alt="hp" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook"><img src="images/logoPhone/samsung.png" alt="samsung" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/samsung.png" alt="samsung" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook"><img src="images/logoPhone/sony_vaio.png" alt="sony vaio" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/sony_vaio.png" alt="sony vaio" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=toshiba&typedevice=notebook"><img src="images/logoPhone/toshiba.png" alt="toshiba" /></a>
+						<a href="article.php?page=price&namesubject=toshiba&typedevice=notebook" target="_blank"><img src="images/logoPhone/toshiba.png" alt="toshiba" /></a>
 					</div>	
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook"><img src="images/logoPhone/lenovo.png" alt="lenovo" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/lenovo.png" alt="lenovo" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook"><img src="images/logoPhone/asus.png" alt="asus" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/asus.png" alt="asus" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=acer&typedevice=notebook"><img src="images/logoPhone/acer.png" alt="acer" /></a>
+						<a href="article.php?page=price&namesubject=acer&typedevice=notebook" target="_blank"><img src="images/logoPhone/acer.png" alt="acer" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook"><img src="images/logoPhone/lg.png" alt="lg" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/lg.png" alt="lg" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook" ><img src="images/logoPhone/sony.png" alt="sony" /></a>
-					</div>
-					
-					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook"><img src="images/logoPhone/Fujitsu.png" alt="Fujitsu" /></a>
-					</div>
-					<div>
-						<a href="article.php?page=price&namesubject=dell&typedevice=notebook"><img src="images/logoPhone/dell.png" alt="dell" /></a>
-					</div>
-					<div>
-						<a href="article.php?page=price&namesubject=Compaq&typedevice=notebook"><img src="images/logoPhone/Compaq.png" alt="Compaq" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/sony.png" alt="sony" /></a>
 					</div>
 					
 					<div>
-						<a href="article.php?page=price&namesubject=Emachines&typedevice=notebook"><img src="images/logoPhone/emachines.png" alt="emachines" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/Fujitsu.png" alt="Fujitsu" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook"><img src="images/logoPhone/NEC.png" alt="NEC" /></a>
+						<a href="article.php?page=price&namesubject=dell&typedevice=notebook" target="_blank"><img src="images/logoPhone/dell.png" alt="dell" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook"><img src="images/logoPhone/packard_bell.png" alt="packard bell" /></a>
+						<a href="article.php?page=price&namesubject=Compaq&typedevice=notebook" target="_blank"><img src="images/logoPhone/Compaq.png" alt="Compaq" /></a>
+					</div>
+					
+					<div>
+						<a href="article.php?page=price&namesubject=Emachines&typedevice=notebook" target="_blank"><img src="images/logoPhone/emachines.png" alt="emachines" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook"><img src="images/logoPhone/MSI.png" alt="MSI" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/NEC.png" alt="NEC" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=notebook"><img src="images/logoPhone/Panasonic.png" alt="Panasonic" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/packard_bell.png" alt="packard bell" /></a>
+					</div>
+					<div>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/MSI.png" alt="MSI" /></a>
+					</div>
+					<div>
+						<a href="article.php?page=price&namesubject=default&typedevice=notebook" target="_blank"><img src="images/logoPhone/Panasonic.png" alt="Panasonic" /></a>
 					</div>
 				</div>
 				
@@ -230,28 +230,28 @@
 
 				<div class="autoplay slider">
 					<div>
-						<a href="article.php?page=price&namesubject=cube&typedevice=accessories"><img src="images/accessories/cube.png" alt="cube" /></a>
+						<a href="article.php?page=price&namesubject=cube&typedevice=accessories" target="_blank"><img src="images/accessories/cube.png" alt="cube" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/accessories/headphones.png" alt="headphones" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/accessories/headphones.png" alt="headphones" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=cube&typedevice=accessories"><img src="images/accessories/Cabel1.png" alt="Cabe" /></a>
+						<a href="article.php?page=price&namesubject=cube&typedevice=accessories" target="_blank"><img src="images/accessories/Cabel1.png" alt="Cabe" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/accessories/Cabel2.png" alt="Cabel" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/accessories/Cabel2.png" alt="Cabel" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=cube&typedevice=accessories"><img src="images/accessories/ZY1.png" alt="ZY" /></a>
+						<a href="article.php?page=price&namesubject=cube&typedevice=accessories" target="_blank"><img src="images/accessories/ZY1.png" alt="ZY" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/accessories/ZY2.png" alt="ZY" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/accessories/ZY2.png" alt="ZY" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=cube&typedevice=accessories"><img src="images/accessories/Cabel1.png" alt="Cabel" /></a>
+						<a href="article.php?page=price&namesubject=cube&typedevice=accessories" target="_blank"><img src="images/accessories/Cabel1.png" alt="Cabel" /></a>
 					</div>
 					<div>
-						<a href="article.php?page=price&namesubject=default&typedevice=default"><img src="images/accessories/Cabel2.png" alt="Cabel" /></a>
+						<a href="article.php?page=price&namesubject=default&typedevice=default" target="_blank"><img src="images/accessories/Cabel2.png" alt="Cabel" /></a>
 					</div>
 					
 
