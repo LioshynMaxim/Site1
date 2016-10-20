@@ -38,7 +38,7 @@
 			<ul>");
 			while ($row = $result->fetch_assoc()) {
 				if(! ($row['id'] & 1 )){ 
-					printf("<li><img src='images/galochka.png' alt='галочка' /><a href='#'> %s</a></li>",$row['serices']);
+					printf("<li><img src='images/galochka.png' alt='галочка' /><a href='#' target='_blank'> %s</a></li>",$row['serices']);
 				}
 			}
 			print("</ul>		</div>");
@@ -49,7 +49,7 @@
 				<ul>");
 				while ($row = $result->fetch_assoc()) {
 					if( ($row['id'] & 1 )){ 
-						printf("<li><img src='images/galochka.png' alt='галочка'/><a href='#'> %s</a></li>",$row['serices']);
+						printf("<li><img src='images/galochka.png' alt='галочка'/><a href='#' target='_blank'> %s</a></li>",$row['serices']);
 					}
 				}
 				print("</ul>			</div>");
